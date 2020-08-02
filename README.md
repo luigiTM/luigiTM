@@ -1,7 +1,7 @@
 ### Hi there, I'm Luigi 👋
 
 ## I'm a Full Stack Developer
-- 🔭 I’m currently working on [Grana]!
+- 🔭 I’m currently working on Grana!
 - 🌱 I’m currently learning Javascript, HTML and CSS
 
 ### Connect with me:
